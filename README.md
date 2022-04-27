@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Riad Elimemmedov</h1>
+<h3 align="center">I'm a Computer Science student at UNEC. I am more interested in web programming</h3>
 <hr>
 
 ## 🔥 Streak stats
