@@ -4,7 +4,7 @@
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://github.com/KmrnIsmylvv">
+  <a href="https://github.com/riadelimemmedov">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="KmrnIsmylvv's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KmrnIsmylvv&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
