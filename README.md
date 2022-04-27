@@ -34,7 +34,7 @@
 ### 🧰 Frameworks and libraries
 
 <p>
-    <a href="#"><img alt="django" src="https://img.shields.io/badge/django-5C2D91?style=for-the-badge&logo=.net&logoColor=white&style=plastic"></a>
+    <a href="#"><img alt="django" src="https://img.shields.io/badge/django-5C2D91?style=for-the-badge&logo=.django&logoColor=white&style=plastic"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&style=plastic"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
