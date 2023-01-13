@@ -51,7 +51,7 @@ I am software developer who loves Python,JavaScript and Solidity
 
 <b>My GitHub Stats</b>
 
-[![Riad's GitHub stats](https://github-readme-stats.vercel.app/api?username=riadelimemmedov)](https://github.com/anuraghazra/github-readme-stats)
+[![Riad's GitHub stats](https://github-readme-stats.vercel.app/api?username=riadelimemmedov)](https://github.com/riadelimemmedov/github-readme-stats)
 
 <a href="http://www.github.com/riadelimemmedov/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=riadelimemmedov&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
