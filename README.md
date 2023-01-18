@@ -10,7 +10,7 @@ I am software developer who loves Python,JavaScript and Solidity
 * ✉️  You can contact me at [riad.elimemmedov@mail.ru](mailto:riad.elimemmedov@mail.ru)
 * 🚀  I'm currently working on [Udemy App](http://www.udemy.com/)
 * 🧠  I'm learning Django,DSA and Web3 technology
-* 🤝  I'm open to collaborating on Projects
+* 🤝  I'm open to collaborating on Projects and Job opportunities
 * ⚡  I Am Deadpool,Tell Everyone
 
 ### Skills
