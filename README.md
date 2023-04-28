@@ -51,7 +51,7 @@ I am software developer who loves Python,JavaScript and Solidity Enthusiast <spa
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/riadelimemmedov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />&nbsp</a> <a href="https://www.linkedin.com/in/riad-%C9%99lim%C9%99mm%C9%99dov/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://stackoverflow.com/users/21731031/riad-elimemmedov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+<p align="left"> <a href="https://www.github.com/riadelimemmedov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />&nbsp</a> <a href="https://www.linkedin.com/in/riad-%C9%99lim%C9%99mm%C9%99dov/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp<a href="https://stackoverflow.com/users/21731031/riad-elimemmedov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>&nbsp
   
 </p>
 
