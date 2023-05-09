@@ -9,7 +9,7 @@ I am software developer who loves Python,JavaScript and Solidity Enthusiast <spa
 * 🌍  I'm based in Baku
 * ✉️  You can contact me at [riad.elimemmedov@mail.ru](mailto:riad.elimemmedov@mail.ru)
 * 🚀  I'm currently working on [Pick Up Lines](https) and [E-Commerce System](http)
-* 🧠  I'm learning Django and Django Rest Framework,Python Design Pattern and Web3 technology
+* 🧠  I'm currently learning FastApi and System Design,Web3 technology
 * 🤝  I'm open to collaborating on Projects and Job opportunities
 * ⚡  I Am Deadpool,Tell Everyone
 
