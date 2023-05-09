@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I am software developer who loves Python,JavaScript and Solidity Enthusiast <span style='font-size:100px;'>&#128512;</span>
+I am software developer who loves Python,JavaScript and Blockchain Enthusiast <span style='font-size:100px;'>&#128512;</span>
 
 * 🌍  I'm based in Baku
 * ✉️  You can contact me at [riad.elimemmedov@mail.ru](mailto:riad.elimemmedov@mail.ru)
