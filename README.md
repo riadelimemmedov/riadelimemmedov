@@ -9,7 +9,7 @@ I am software developer who loves Python,JavaScript and Blockchain Enthusiast <s
 * 🌍  I'm based in Baku
 * ✉️  You can contact me at [riad.elimemmedov@mail.ru](mailto:riad.elimemmedov@mail.ru)
 * 🚀  I'm currently working on [Pick Up Lines](https) and [E-Commerce System](http)
-* 🧠  I'm currently learning <i>FastApi</i> and <i>System Design</i>
+* 🧠  I'm currently learning <i>FastApi</i>, <i>Redux</i> and <i>System Design</i>
 * 🤝  I'm open to collaborating on Projects and Job opportunities
 * ⚡  I Am Deadpool,Tell Everyone
 
