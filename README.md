@@ -60,15 +60,4 @@ I am software developer who loves Python,JavaScript and Blockchain Enthusiast <s
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/riadelimemmedov/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=riadelimemmedov&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/riadelimemmedov/"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=riadelimemmedov&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-  
-  <br/>
-    <a href="#" style="width:100px"><img alt="Riad Elimemmedov's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=riadelimemmedov&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-    <a href="#"><img alt="riadelimemmedov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riadelimemmedov&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-  <br/>
-  <div align="center">
-    <img  src="https://profile-counter.glitch.me/{riadelimemmedov}/count.svg"/>
-   </div>
+<a href="http://www.github.com/riadelimemmedov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=riadelimemmedov&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
