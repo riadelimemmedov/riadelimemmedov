@@ -9,7 +9,7 @@ I am software developer who loves Python,JavaScript and Blockchain Enthusiast <s
 * 🌍  I'm based in Baku
 * ✉️  You can contact me at [riad.elimemmedov@mail.ru](mailto:riad.elimemmedov@mail.ru)
 * 🚀  I'm currently working on [Funding Web3](https) and [Rent Book System](http)
-* 🧠  I'm currently learning <i>FastApi</i>,<i>Solidity</i>,and <i>System Design</i> <i>Microservices</i>
+* 🧠  I'm currently learning <i>FastApi</i>,<i>Solidity</i>,and <i>System Design</i>,  <i>Microservices</i>
 * 🤝  I'm open to collaborating on Projects and Job opportunities
 * ⚡  I Am Deadpool,Tell Everyone
 
