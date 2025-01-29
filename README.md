@@ -8,8 +8,8 @@ I am software developer who loves Python,JavaScript,Go and Blockchain Enthusiast
 
 * 🌍  I'm based in Baku
 * ✉️  You can contact me at [riad.elimemmedov@mail.ru](mailto:riad.elimemmedov@mail.ru)
-* 🚀  I'm currently working on [FoodDeliverySystem Microservices](https://github.com/riadelimemmedov/FoodDeliverySystem-Microservices)
-* 🧠  I'm currently learning <i>Go and Kubernetes</i>,<i>Aws</i>,<i>FastAPI</i>,<i>System Design</i> and <i>Microservices</i>
+* 🚀  I'm currently working on [Wallet System Microservices](https://github.com/riadelimemmedov/Wallet-System)
+* 🧠  I'm currently learning <i>Go</i>,<i>System Design</i> and <i>Microservices and Distributed Systems</i>
 * 🤝  I'm open to collaborating on Projects and Job opportunities
 * ⚡  I Am Deadpool,Tell Everyone
 
